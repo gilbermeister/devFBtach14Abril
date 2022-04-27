@@ -1,0 +1,8 @@
+mv mover y renombrar
+rm borrar
+rm -r borrar reiterativamente
+mkdir hacer carpeta
+touch crear
+nano index.js abre un editor plano de texto
+ctrl + l = clear
+ls -a muestra archivos ocultos también
